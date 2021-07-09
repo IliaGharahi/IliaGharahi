@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ilia Gharahi
+- 👀 I’m interested in Python, Data Science  and ML
+- 🌱 I’m currently learning Python, Data Science and ML (:
+- 📫 How to reach me: IliaGharahi@gmail.com
